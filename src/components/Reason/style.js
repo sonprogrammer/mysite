@@ -2,8 +2,9 @@ import styled from "styled-components";
 import tw from "twin.macro";
 
 
-export const StyledHeader = styled.div`
+export const StyledContainer = styled.div`
     ${tw`
-
+        min-h-screen  
+        bg-blue-700
     `}
 `

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Footer, Header, InfoSection } from '../../components'
+import { Header, InfoSection, Experience, Develops } from '../../components'
 import { StyledContainer} from './style'
 
 
@@ -8,7 +8,8 @@ const LayoutPage = () => {
     <StyledContainer>
         <Header/>
         <InfoSection />
-        <Footer />
+        <Experience />
+        <Develops />
     </StyledContainer>
   )
 }
