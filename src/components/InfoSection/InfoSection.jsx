@@ -31,7 +31,7 @@ const InfoSection = () => {
             <h3>Age : 28</h3>
             <h3>Uni : 한서대학교</h3>
           </div>
-          <img src='증명사진.jpg'/>
+          <img src='/me.jpg'/>
         </StyledBox>
       </StyledInfoContainer>
       <StyledPresent

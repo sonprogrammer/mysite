@@ -4,8 +4,8 @@ import { Button, Slide, SliderContainer, SliderWrapper, StyledCertificate, Style
 const Develops = () => {
     const [ current, setCurrent ] = useState(0)
     const slides = [
-        { title : '토익', src:'/토익 성적증명서.pdf' },
-        { title : '정보처리기사', src: '/정처기합격.pdf' },
+        { title : '토익', src:'/toeic.pdf' },
+        { title : '정보처리기사', src: '/test1.pdf' },
         { title : 'GTQ1급', src: '/gtq.pdf' },
     ]
 
